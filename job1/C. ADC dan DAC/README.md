@@ -6,7 +6,7 @@
 ### A. Source Code
 Program dapat dilihat [disini](https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/blob/main/job1/C.%20ADC%20dan%20DAC/ADC___DAC_Program_langkah_2/ADC___DAC_Program_langkah_2.ino).
 ### B. Flowchart
-![alt text](?raw=true)
+![alt text](https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/blob/main/job1/C.%20ADC%20dan%20DAC/ADC___DAC_Program_langkah_2/ADC%201.drawio.png?raw=true)
 ### C. Hasil
 
 
@@ -14,7 +14,7 @@ Program dapat dilihat [disini](https://github.com/AisyahKusumastuti/Sistem-Embed
 ### A. Source Code
 Program dapat dilihat [disini](https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/blob/main/job1/C.%20ADC%20dan%20DAC/ADC___DAC_Program_langkah_4/ADC___DAC_Program_langkah_4.ino).
 ### B. Flowchart
-![alt text](?raw=true)
+![alt text](https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/blob/main/job1/C.%20ADC%20dan%20DAC/ADC___DAC_Program_langkah_4/ADC%202.drawio.png?raw=true)
 ### C. Hasil
 Percobaan ini 
 
