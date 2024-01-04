@@ -4,6 +4,6 @@
 ## B. Source Code
 Program dapat dilihat pada link ini.
 ## C. Flowchart
-![alt text](?raw=true)
+
 ## D. Hasil dan Pembahasan
 ## E. Kesimpulan
