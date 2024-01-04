@@ -18,4 +18,4 @@ Program dapat dilihat [disini](https://github.com/AisyahKusumastuti/Sistem-Embed
 ### C. Hasil
 Percobaan ini 
 
-https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/blob/main/job1/C.%20ADC%20dan%20DAC/ADC___DAC_Program_langkah_4/C.%20ADC%20_%20DAC%20-%20langkah5.mp4
+https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/assets/154494434/7da227fe-132e-4d59-b33d-0ccde968f5d9
