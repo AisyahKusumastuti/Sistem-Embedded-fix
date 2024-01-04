@@ -3,15 +3,16 @@
 ### Rangkaian
 ![alt text](https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/blob/main/job1/A.%20GPIO/Rangkaian%20GPIO.png?raw=true)
 ### A. Source Code
-Program LED Blink dapat dilihat pada link ini.
+Program LED Blink dapat dilihat [disini](https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/blob/main/job1/A.%20GPIO/GPIO_program_Example_Blink/GPIO_program_Example_Blink.ino).
 ### B. Flowchart
 ![alt text](https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/blob/main/job1/A.%20GPIO/GPIO_program_Example_Blink/fc%20gpio%201.drawio.png?raw=true)
 ### C. Hasil
+Percobaan pertama ini membuat program agar LED dapat melakukan blink dengan interval 1 detik sekali menggunakan timer milis().
 https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/assets/154494434/8361ed71-04cc-45cd-a4dd-d005df0077e5 
 
 ## 2. GPIO - Mengendalikan LED Menggunakan Push Button
 ## A. Source Code
-Program dapat dilihat pada link ini.
+Program dapat dilihat [disini](https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/blob/main/job1/A.%20GPIO/GPIO_Program_langkah_3/GPIO_Program_langkah_3.ino).
 ## B. Flowchart
 ![alt text](https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/blob/main/job1/A.%20GPIO/GPIO_Program_langkah_3/flowchart%20GPIO%202.drawio.png?raw=true)
 ## C. Hasil
@@ -19,7 +20,7 @@ https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/assets/154494434/cf547f
 
 ## 3. GPIO - LED Blink Setiap 500ms Sekali
 ## A. Source Code
-Program dapat dilihat pada link ini.
+Program dapat dilihat [disini](https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/blob/main/job1/A.%20GPIO/GPIO_Program_langkah_4/GPIO_Program_langkah_4.ino).
 ## B. Flowchart
 ![alt text](https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/blob/main/job1/A.%20GPIO/GPIO_Program_langkah_4/flowchart%20gpio%203.drawio.png?raw=true)
 ## C. Hasil
@@ -27,9 +28,10 @@ https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/assets/154494434/58bc0c
 
 ## 4. GPIO - LED Blink Setiap 500ms Sekali
 ## A. Source Code
-Program dapat dilihat pada link ini.
+Program dapat dilihat [disini](https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/blob/main/job1/A.%20GPIO/GPIO_program_langkah_5_Rled/GPIO_program_langkah_5_Rled.ino).
 ## B. Flowchart
 ![alt text](https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/blob/main/job1/A.%20GPIO/GPIO_program_langkah_5_Rled/flowchart%20gpio%204.drawio.png?raw=true)
 ## C. Hasil
 https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/assets/154494434/9b56adfe-8108-4625-a1f7-b513969c6d1d
 
+## ANALISA
