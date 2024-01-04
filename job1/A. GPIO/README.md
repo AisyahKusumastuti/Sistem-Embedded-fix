@@ -11,4 +11,4 @@ https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/assets/154494434/8361ed
 
 Pada percobaan pertama digunakan 1 buah LED dan 1 buah Push Button. Push Button diinisialisasi sebagai Input melalui GPIO 4 pada ESP32 sedangkan pin LED diinisialisai sebagai Output melalui GPIO 5 pada ESP32. Setelah itu, program dibuat agar LED dapat melakukan blink dengan interval 1 detik sekali menggunakan timer milis(). 
 ## E. Kesimpulan
-Dalam percobaan ini dapat disimpulkan bahwa kita dapat mengatur interval LED dalam melakukan blink menggunakan perintah delay().
+Dalam percobaan ini dapat disimpulkan bahwa kita dapat mengatur interval waktu LED untuk melakukan blink menggunakan perintah delay().
