@@ -4,7 +4,7 @@
 
 ## 1. Mengendalikan Kecerahan Sebuah LED
 ### A. Source Code
-Program LED Blink dapat dilihat [disini](https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/blob/main/job1/B.%20PWM/PWM_program_langkah_2/PWM_program_langkah_2.ino).
+Program dapat dilihat [disini](https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/blob/main/job1/B.%20PWM/PWM_program_langkah_2/PWM_program_langkah_2.ino).
 ### B. Flowchart
 ![alt text](?raw=true)
 ### C. Hasil
@@ -14,7 +14,7 @@ https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/blob/main/job1/B.%20PWM
 
 ## 2. Mengendalikan Kecerahan 3 Buah LED
 ### A. Source Code
-Program LED Blink dapat dilihat [disini](https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/blob/main/job1/B.%20PWM/PWM_program_langkah_4/PWM_program_langkah_4.ino).
+Program dapat dilihat [disini](https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/blob/main/job1/B.%20PWM/PWM_program_langkah_4/PWM_program_langkah_4.ino).
 ### B. Flowchart
 ![alt text](?raw=true)
 ### C. Hasil
