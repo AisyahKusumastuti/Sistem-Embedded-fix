@@ -27,6 +27,8 @@ Program dapat dilihat [disini](https://github.com/AisyahKusumastuti/Sistem-Embed
 ## B. Flowchart
 ![alt text](https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/blob/main/job1/A.%20GPIO/GPIO_Program_langkah_4/flowchart%20gpio%203.drawio.png?raw=true)
 ## C. Hasil
+Pada percobaan ini melanjutkan dari percobaan sebelumnya, yaitu menambahkan 1 LED dan 1 push button dan membuat program agar ketika push button ke-2 ditekan, LED akan melakukan blink 
+setiap 500 ms sekali. Nilai digital dari push button yang kedua dibaca dan disimpan dalam variabel buttonState2 menggunakan digitalRead(). Selanjutnya, program melakukan dua pengecekan kondisi buttonState dan buttonState2. Jika nilai salah satunya HIGH, LED akan menyala selama setengah detik dan mati selama setengah detik dan begitu seterusnya.
 
 https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/assets/154494434/58bc0ca8-c7d1-4103-b67b-797f00a357c2
 
@@ -36,6 +38,6 @@ Program dapat dilihat [disini](https://github.com/AisyahKusumastuti/Sistem-Embed
 ## B. Flowchart
 ![alt text](https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/blob/main/job1/A.%20GPIO/GPIO_program_langkah_5_Rled/flowchart%20gpio%204.drawio.png?raw=true)
 ## C. Hasil
-https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/assets/154494434/9b56adfe-8108-4625-a1f7-b513969c6d1d
+Percobaan ini merupakan percobaan Running LED, yang mana membuat program agar ketika push button ke-3 ditekan, LED akan menyala menjadi running LED (menyala bergantian dari kiri ke kanan). Di dalam fungsi "void loop" ditambahkan buttonState3 menggunakan digitalRead() agar dapat mengendalikan running LED melalui push button ketiga. Ketika push button ketiga ditekan, LED akan menyala dan mati secara bergantian dari kiri ke kanan.
 
-## ANALISA
+https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/assets/154494434/9b56adfe-8108-4625-a1f7-b513969c6d1d
