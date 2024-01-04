@@ -12,7 +12,7 @@ Program dapat dilihat [disini](https://github.com/AisyahKusumastuti/Sistem-Embed
 
 ## 2. Mengatur Cahaya LED Menggunakan Potensiometer
 ### A. Source Code
-Program LED Blink dapat dilihat [disini](https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/blob/main/job1/C.%20ADC%20dan%20DAC/ADC___DAC_Program_langkah_4/ADC___DAC_Program_langkah_4.ino).
+Program dapat dilihat [disini](https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/blob/main/job1/C.%20ADC%20dan%20DAC/ADC___DAC_Program_langkah_4/ADC___DAC_Program_langkah_4.ino).
 ### B. Flowchart
 ![alt text](?raw=true)
 ### C. Hasil
