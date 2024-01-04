@@ -16,7 +16,7 @@ https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/assets/154494434/12a2a5
 ### A. Source Code
 Program dapat dilihat [disini](https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/blob/main/job1/B.%20PWM/PWM_program_langkah_4/PWM_program_langkah_4.ino).
 ### B. Flowchart
-![alt text](?raw=true)
+![alt text](https://github.com/AisyahKusumastuti/Sistem-Embedded-fix/blob/main/job1/B.%20PWM/PWM_program_langkah_4/PWM%202.drawio.png?raw=true)
 ### C. Hasil
 Percobaan ini hampir sama dengan percobaan sebelumnya. Kali ini mengendalikan kecerahan dari 3 buah LED sekaligus. Variabel "ledPin" (nomor pin GPIO untuk LED), "freq" (frekuensi dari PWM), "ledChannel" (nomor saluran PWM), dan "resolution" (resolusi bit PWM) diatur sedemikian rupa sesuai dengan perintah jobsheet. Untuk meningkatkan kecerahan LED secara bertahap, digunakan "dutyCycle" dengan nilai dari 0 ke 255, sehingga memberikan efek peningkatan kecerahan dari mati,redup, hingga terang. Begitu pula sebaliknya, untuk mengurangi tingkat kecerahan LED, digunakan "dutyCycle" dengan nilai dari 255 ke 0, sehingga memberikan efek pengurangan kecerahan dari terang, redup, hingga LED mati. Percobaan ini menghasilkan kondisi LED yang menyala perlahan lalu meredup perlahan.
 
