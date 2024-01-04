@@ -24,7 +24,6 @@ Program dapat dilihat pada link ini.
 ![alt text](?raw=true)
 ## C. Hasil
 
-
 ## 4. GPIO - LED Blink Setiap 500ms Sekali
 ## A. Source Code
 Program dapat dilihat pada link ini.
